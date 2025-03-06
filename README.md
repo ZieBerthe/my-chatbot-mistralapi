@@ -2,6 +2,17 @@
 
 This is a simple chat application that integrates with an AI model to provide automated responses. The application is built using React and the Chat UI Kit.
 
+## Features
+
+- Send and receive messages
+- Clear chat with the attach button
+- AI-generated responses using Mistral API
+## Project Structure
+
+- `src/App.js`: Main component of the application that sets up the chat interface and handles sending and receiving messages.
+- `src/App.css`: Styling for the application.
+- `src/logo.svg`: Logo used in the application.
+
 ## Installation
 
 1. Clone the repository:
