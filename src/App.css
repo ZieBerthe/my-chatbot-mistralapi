@@ -1,15 +1,21 @@
 .App {
-  text-align: center;
+  text-align: left;
+  border: 5px solid black;
+}
+.skuu{
+  border: 5px solid black;
+  margin-right:0%
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  border: 5px solid black;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 0.3s linear;
   }
 }
 
@@ -25,7 +31,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #235c6b;
 }
 
 @keyframes App-logo-spin {
